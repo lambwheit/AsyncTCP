@@ -1,2 +1,2 @@
 # AsyncTCP
-Asynchronous TCP Server, asynchronous receive, synchronous send
+Simple Asynchronous TCP Server with asynchronous receive, synchronous send
